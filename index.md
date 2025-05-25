@@ -3,10 +3,9 @@ layout: default
 title: Welcome
 ---
 
-# Charlie Cameron
 
 
-I’m a PhD student in the SAMBa CDT at the University of Bath. My work blends stochastic and deterministic modelling to better understand complex biological systems. I focus on **reaction–diffusion processes**—like the Fisher-KPP model—where randomness plays an important role in early dynamics. Since fully stochastic simulations can be computationally expensive, I use a hybrid approach that combines them with faster PDE-based methods in regions where randomness has less impact.
+PhD student in the SAMBa CDT at the University of Bath. My work blends stochastic and deterministic modelling to better understand complex biological systems. I focus on **reaction–diffusion processes**—like the Fisher-KPP model—where randomness plays an important role in early dynamics. Since fully stochastic simulations can be computationally expensive, I use a hybrid approach that combines them with faster PDE-based methods in regions where randomness has less impact.
 
 ## Research: Spatial Regime Conversion Method (SRCM)
 
