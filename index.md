@@ -20,5 +20,6 @@ This hybrid approach improves efficiency while preserving key stochastic behavio
 
 ## Contact
 If you have any questions or want to connect then here are my details:
-- [GitHub](https://github.com/cgyc20)
-- Email: cgyc20@bath.ac.uk
+
+- 📧 Email: [cgyc20@bath.ac.uk](mailto:cgyc20@bath.ac.uk)  
+- 🐙 [GitHub](https://github.com/cgyc20)
