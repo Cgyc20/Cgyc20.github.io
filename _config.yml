@@ -1,7 +1,7 @@
 title: Doctoral profile
 logo: /assets/img/logo.png
 description: PhD student in Mathematics at the University of Bath 
-show_downloads: true
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
 ![Charlie Cameron](assets/img/IMG_1163.jpeg){: style="max-width: 200px; border-radius: 50%;" }
